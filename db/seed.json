@@ -7,101 +7,200 @@
     "correct": "vinayak"
   },
   {
-      "category": "animals",
-      "question":
-        "What’s the name of a place you go to see lots of animals?",
-      "answers": ["Park", "School", "Bus", "Zoo"],
-      "correct": "zoo"
+    "category": "animals",
+    "question":
+      "What’s the name of a place you go to see lots of animals?",
+    "answers": ["Park", "School", "Bus", "Zoo"],
+    "correct": "zoo"
   },
   {
     "category": "animals",
-      "question":
-        "What type of fish is Nemo?",
-      "answers": ["Goldfish", "Clownfish", "Blobfish", "Bluefish"],
-      "correct": "Clownfish"
-    },
-    {
-      "category": "animals",
-      "question":
-        "What do caterpillars turn into?",
-      "answers": ["Tigers", "Monsters", "Butterflies", "Zebras"],
-      "correct": "Butterflies"
-    },
-    {
-      "category": "animals",
-      "question":
-        "How many pairs of wings do bees have?",
-      "answers": ["Eleven", "Four", "Two", "One"],
-      "correct": "Two"
-    },
-    {
-      "category": "animals",
-      "question":
-        "What is a doe?",
-      "answers": ["What pizza is made of", "Female deer", "Space behind a frogs knees", "Bear toes"],
-      "correct": "Female deer"
-    },
-    {
-      "category": "animals",
-      "question":
-        "What is a group of lions called?",
-      "answers": ["a pack", "a liars", "a beast", "a pride"],
-      "correct": "a pride"
-    },
-    {
-      "category": "animals",
-      "question":
-        "What’s the first thing a caterpillar usually eats after it’s born?",
-      "answers": ["a pack", "a liars", "a beast", "a pride"],
-      "correct": "a pride"
-    },
-    {
-      "category": "animals",
-      "question":
-        "The trumpeter swan—North America’s largest waterfowl—weighs about how many pounds?",
-      "answers": ["30", "10", "50", "70"],
-      "correct": "30"
-    },
-    {
-      "category": "animals",
-      "question":
-        "Which of the following animals is not nocturnal?",
-      "answers": ["Skunk", "Leopard", "Tiger", "Sheep"],
-      "correct": "Sheep"
-    },
-    {
-      "category": "animals",
-      "question":
-        "Walruses can eat about how many clams in one day?",
-      "answers": ["5,000", "10,000", "12,000", "16,000"],
-      "correct": "5,000"
-    },
-    {
-      "category": "animals",
-      "question":
-        "What is a baby rabbit called?",
-      "answers": ["Doe", "Buck", "Kit", "Hare"],
-      "correct": "Kit"
-    },
-    {
-      "category": "animals",
-      "question":
-        "How many koalas stacked on top of one another does it take to reach the height of a male giraffe—the world’s tallest land animal?",
-      "answers": ["7","2", "4", "50"],
-      "correct": "7"
-    },
-    {
-      "category": "animals",
-      "question":
-        "An ant says, “Danger ahead!” by doing what?",
-      "answers": ["squealing", "running toward water", "rolling on its back", "oozing chemicals"],
-      "correct": "oozing chemicals"
-    },
-    {
-      "category": "animals",
-      "question":
-        "Which of the following is not a type of penguin?",
-      "answers": ["waterland","emperor", "chinstrap", "macaroni"],
-      "correct": "waterland"
-    }
-  ]
+    "question":
+      "What type of fish is Nemo?",
+    "answers": ["Goldfish", "Clownfish", "Blobfish", "Bluefish"],
+    "correct": "Clownfish"
+  },
+  {
+    "category": "animals",
+    "question":
+      "What do caterpillars turn into?",
+    "answers": ["Tigers", "Monsters", "Butterflies", "Zebras"],
+    "correct": "Butterflies"
+  },
+  {
+    "category": "animals",
+    "question":
+      "How many pairs of wings do bees have?",
+    "answers": ["Eleven", "Four", "Two", "One"],
+    "correct": "Two"
+  },
+  {
+    "category": "animals",
+    "question":
+      "What is a doe?",
+    "answers": ["What pizza is made of", "Female deer", "Space behind a frogs knees", "Bear toes"],
+    "correct": "Female deer"
+  },
+  {
+    "category": "animals",
+    "question":
+      "What is a group of lions called?",
+    "answers": ["a pack", "a liars", "a beast", "a pride"],
+    "correct": "a pride"
+  },
+  {
+    "category": "animals",
+    "question":
+      "What’s the first thing a caterpillar usually eats after it’s born?",
+    "answers": ["a pack", "a liars", "a beast", "a pride"],
+    "correct": "a pride"
+  },
+  {
+    "category": "animals",
+    "question":
+      "The trumpeter swan—North America’s largest waterfowl—weighs about how many pounds?",
+    "answers": ["30", "10", "50", "70"],
+    "correct": "30"
+  },
+  {
+    "category": "animals",
+    "question":
+      "Which of the following animals is not nocturnal?",
+    "answers": ["Skunk", "Leopard", "Tiger", "Sheep"],
+    "correct": "Sheep"
+  },
+  {
+    "category": "animals",
+    "question":
+      "Walruses can eat about how many clams in one day?",
+    "answers": ["5,000", "10,000", "12,000", "16,000"],
+    "correct": "5,000"
+  },
+  {
+    "category": "animals",
+    "question":
+      "What is a baby rabbit called?",
+    "answers": ["Doe", "Buck", "Kit", "Hare"],
+    "correct": "Kit"
+  },
+  {
+    "category": "animals",
+    "question":
+      "How many koalas stacked on top of one another does it take to reach the height of a male giraffe—the world’s tallest land animal?",
+    "answers": ["7","2", "4", "50"],
+    "correct": "7"
+  },
+  {
+    "category": "animals",
+    "question":
+      "An ant says, “Danger ahead!” by doing what?",
+    "answers": ["squealing", "running toward water", "rolling on its back", "oozing chemicals"],
+    "correct": "oozing chemicals"
+  },
+  {
+    "category": "animals",
+    "question":
+      "Which of the following is not a type of penguin?",
+    "answers": ["waterland","emperor", "chinstrap", "macaroni"],
+    "correct": "waterland"
+  },
+  {
+    "category": "space",
+    "question":
+     "What is the bright glow around the “head” of a comet called?",
+    "answers": ["Ring", "Coma", "Halo", "Crown"],
+    "correct": "Coma"
+  },
+  {
+    "category": "space",
+    "question":
+      "Which of the following did people used to think seeing a comet signified?",
+    "answers": ["Disaster", "Disease", "Death", "All the above"],
+    "correct": "All the above"
+  },
+  {
+    "category": "space",
+    "question":
+      "What is the name of the famous comet that can be seen from Earth about every 75 years?",
+    "answers": ["Hale-Bopp", "Shoemaker-Levy 9", "Halley’s Comet", "Pluto"],
+    "correct": "Halley’s Comet"
+  },
+  {
+    "category": "space",
+    "question":
+      "How many tails does a comet have?",
+    "answers": ["Most have 2", "Only 1", "Roughly 3", "At least 5" ],
+    "correct": "Most have 2"
+  },
+  {
+    "category": "space",
+    "question":
+      "What is the name of a well known meteor shower that peaks in August each year?",
+    "answers": ["Persieds","Pleiades", "Summer Shower", "Orion"],
+    "correct": "Perseids"
+  },
+  {
+    "category": "space",
+    "question":
+      "What is the scientific name for a shooting star?",
+    "answers": ["Comet", "Asteroid", "Falling star", "Meteor"],
+    "correct": "Meteor"
+  },
+  {
+    "category": "space",
+    "question":
+      "What is the name of a well known meteor shower that peaks each November?",
+    "answers": ["Leonids", "Linus", "Northern Lights", "Winter Shower"],
+    "correct": "Leonids"   
+  },
+
+  {
+    "category": "social studies",
+    "question":
+      "Which ocean is off the California coast?",
+    "answers": ["Atlantic", "Indian", "Pacific", "Red sea"],
+    "correct": "Pacific"
+  },
+  {
+    "category": "social studies",
+    "question":
+      "What is something you hit with a hammer?",
+    "answers": ["Screw", "Rubberband", "Nail", "Wrench"],
+    "correct": "Nail"
+  },
+  {
+    "category": "social studies",
+    "question":
+     "What colors are the stars on the American flag?",
+    "answers": ["Red", "Orange", "Blue", "White"],
+    "correct": "White"
+  },
+  {
+    "category": "social studies",
+    "question":
+        "What fruit do kids traditionally give to teachers?",
+    "answers": ["Pizza", "Orange", "Apple", "iPod"],
+    "correct": "Apple"
+  },
+  {
+    "category": "social studies",
+    "question":
+        "What do you use to write on a blackboard?",
+    "answers": ["Grapes", "Sharpie", "Crayon", "Chalk"],
+    "correct": "Chalk"
+  }, 
+  {
+    "category": "social studies",
+    "question":
+        " On which holiday do you go trick-or-treating?",
+    "answers": ["Columbus Day", "Christmas", "Valentine's Day", "Halloween"],
+    "correct": "Halloween"
+  },
+  {
+    "category": "social studies",
+    "question":
+        "Where is the Great Pyramid of Giza?",
+    "answers": ["Egypt", "Netherlands", "New Zealand", "New York"],
+    "correct": "Egypt"
+  }
+]
