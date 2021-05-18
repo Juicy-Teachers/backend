@@ -1,4 +1,5 @@
-const mongoose = require('../connection');
+const mongoose = require('../db/connection');
+const Schema = mongoose.Schema;
 
 const animalCatergory = new mongoose.Schema({
 	id: Number,
