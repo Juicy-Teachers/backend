@@ -1,5 +1,6 @@
 const express = require('express')
 const app = express()
+const questionController = require('./controllers/questions')
 const cors = require('cors')
 app.use(cors())
 
@@ -9,9 +10,9 @@ app.use(express.urlencoded({extended: true }))
 
 
 //controllers
-app.set('port', process.env.PORT || 8000)
+app.use('/trivia', questionController)
 
 //listener
-app.listen(app.get('port'), () => {
+app.listen(8000, () => {
     console.log('connected to port 8000')
 })
