@@ -202,5 +202,91 @@
         "Where is the Great Pyramid of Giza?",
     "answers": ["Egypt", "Netherlands", "New Zealand", "New York"],
     "correct": "Egypt"
+  },
+  {
+    "category": "money",
+    "question":
+        "How many cents is a quarter worth?",
+    "answers": ["fifteen", "one houndered", "ten", "twenty five"],
+    "correct": "twenty five"
+  },
+  {
+    "category": "money",
+    "question":
+        "How many pennies equal 1 dollar? ",
+    "answers": ["one houndred", "five houndred", "five", "twenty"],
+    "correct": "one houndred"
+  },
+  {
+    "category": "money",
+    "question":
+        "How many cents are in 2 quarters?",
+    "answers": ["twenty", "two houndred", "fifty", "seventy five"],
+    "correct": "fifty"
+  },
+  {
+    "category": "money",
+    "question":
+        "You have 6 coins that equal 19 cents, which coins and how many do you have?",
+    "answers": ["4 pennies", "1 Dime, and 1 Nickel", "1 Dime, 1 Nickel & 4 Pennies", "quarter"],
+    "correct": "1 Dime, 1 Nickel & 4 Pennies"
+  },
+  {
+    "category": "money",
+    "question":
+        "You have seven coins that equal 1.16 cents, which coins and how many do you have?",
+    "answers": ["5 quarters", "2 Dimes, and 1 Penny", "1 Dime, 1 Nickel & 4 Pennies", "10 Dimes"],
+    "correct": " 4 Quarters, 1 Dime, 1 Nickel & 1 Penny"
+  },
+  {
+    "category": "money",
+    "question":
+        "You went to the store with $2.30 cents.  You want to buy as many candy bars as you can.  Each candy car is on sale for 35 cents. How many candy bars can you afford?",
+    "answers": ["6 candy bars", "1 candy bar", "no candy bars", "a twizler"],
+    "correct": "6 candy cars"
+  },
+  {
+    "category": "food",
+    "question":
+        "Lures, reels, rods, hooks, baits and nets are common equipment used in what food gathering method?",
+    "answers": ["swimming", "hunting", "fishing", "napping"],
+    "correct": "fishing"
+  },
+  {
+    "category": "food",
+    "question":
+        "Dairy products are made from what common liquid?",
+    "answers": ["milk", "koolaid", "water", "chocolate milk"],
+    "correct": "milk"
+  },
+  {
+    "category": "food",
+    "question":
+        "What is the popular food used to carve jack-o-lanterns during Halloween?",
+    "answers": ["apples", "chickens", "oranges", "pumpkins"],
+    "correct": "pumpkins"
+  },
+
+
+  {
+    "category": "food",
+    "question":
+        "You have 6 coins that equal 19 cents, which coins and how many do you have?",
+    "answers": ["4 pennies", "1 Dime, and 1 Nickel", "1 Dime, 1 Nickel & 4 Pennies", "quarter"],
+    "correct": "1 Dime, 1 Nickel & 4 Pennies"
+  },
+  {
+    "category": "food",
+    "question":
+        "You have 6 coins that equal 19 cents, which coins and how many do you have?",
+    "answers": ["4 pennies", "1 Dime, and 1 Nickel", "1 Dime, 1 Nickel & 4 Pennies", "quarter"],
+    "correct": "1 Dime, 1 Nickel & 4 Pennies"
+  },
+  {
+    "category": "food",
+    "question":
+        "You have 6 coins that equal 19 cents, which coins and how many do you have?",
+    "answers": ["4 pennies", "1 Dime, and 1 Nickel", "1 Dime, 1 Nickel & 4 Pennies", "quarter"],
+    "correct": "1 Dime, 1 Nickel & 4 Pennies"
   }
 ]
