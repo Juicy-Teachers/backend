@@ -1,5 +1,4 @@
-const animals = require('./animal.json')
-const seedData = require('./seed.json')
+const animals = require('./seed.json')
 const Animal = require('../models/Animal')
 
 Animal.deleteMany({}).then(()=>{

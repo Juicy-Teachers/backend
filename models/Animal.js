@@ -2,9 +2,9 @@ const mongoose = require('../db/connection');
 const Schema = mongoose.Schema;
 
 const animalCatergory = new mongoose.Schema({
-	id: Number,
+	questionId: Number,
 	question: String,
-	correctAnswer: String,
+	correct: String,
 	answers: Array,
 	time: { type: Date, default: Date.now },
 });
