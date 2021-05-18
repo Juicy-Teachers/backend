@@ -1,7 +1,8 @@
 const mongoose = require('../db/connection');
 const Schema = mongoose.Schema;
 
-const animalCatergory = new mongoose.Schema({
+const questionCatergory = new mongoose.Schema({
+	category: String,
 	questionId: Number,
 	question: String,
 	correct: String,
@@ -9,6 +10,6 @@ const animalCatergory = new mongoose.Schema({
 	time: { type: Date, default: Date.now },
 });
 
-const Animal = mongoose.model('Animal', animalCatergory);
+const Question = mongoose.model('Question', questionCatergory);
 
-module.exports = Animal;
+module.exports = Question;

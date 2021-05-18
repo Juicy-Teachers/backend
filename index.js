@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const animalController = require('./controllers/animals')
+const questionController = require('./controllers/questions')
 const cors = require('cors')
 app.use(cors())
 
@@ -10,7 +10,7 @@ app.use(express.urlencoded({extended: true }))
 
 
 //controllers
-app.use('/trivia', animalController)
+app.use('/trivia', questionController)
 
 //listener
 app.listen(8000, () => {

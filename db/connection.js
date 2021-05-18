@@ -9,4 +9,5 @@ mongoose
 		console.log(`Connected to mongodb on ${instance.connections[0].name} db`);
 	})
 	.catch((err) => console.log(err));
+	
 module.exports = mongoose;

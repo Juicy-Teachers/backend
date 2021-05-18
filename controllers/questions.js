@@ -1,22 +1,22 @@
 const express = require('express');
-const Animal = require('../models/Animal')
+const Question = require('../models/Question')
 
 const router = express.Router();
 
 router.get('/', (req,res,next) => {
-    Animal.find({}).then((record)=> {
+    Question.find({}).then((record)=> {
         res.json(record)
     })
 })
 
 router.get('/:id', (req, res, next) => {
-	Animal.findById({_id: req.params.id }).then((record) => {
+	Question.findById({_id: req.params.id }).then((record) => {
 		res.json(record);
 	});
 });
 
 router.post('/', (req, res) => {
-    Animal.create(req.body).then((record) => {
+    Question.create(req.body).then((record) => {
         res.json(record);
     })
 })

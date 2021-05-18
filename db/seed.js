@@ -1,8 +1,8 @@
-const animals = require('./seed.json')
-const Animal = require('../models/Animal')
+const questions = require('./seed.json')
+const Question = require('../models/Question')
 
-Animal.deleteMany({}).then(()=>{
-    return Animal.insertMany(animals)
+Question.deleteMany({}).then(()=>{
+    return Question.insertMany(questions)
 }).catch(console.error).finally(() => {
     process.exit();
 })
