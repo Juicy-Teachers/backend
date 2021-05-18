@@ -192,15 +192,15 @@
   {
     "category": "social studies",
     "question":
-        "Which ocean is off the California coast?",
-    "answers": ["Atlantic", "Indian", "Pacific", "Red sea"],
-    "correct": "Pacific"
+        " On which holiday do you go trick-or-treating?",
+    "answers": ["Columbus Day", "Christmas", "Valentine's Day", "Halloween"],
+    "correct": "Halloween"
   },
   {
     "category": "social studies",
     "question":
-        "What is something you hit with a hammer?",
-    "answers": ["Screw", "Rubberband", "Nail", "Wrench"],
-    "correct": "Nail"
+        "Where is the Great Pyramid of Giza?",
+    "answers": ["Egypt", "Netherlands", "New Zealand", "New York"],
+    "correct": "Egypt"
   }
 ]
