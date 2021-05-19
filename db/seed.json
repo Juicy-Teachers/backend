@@ -4,7 +4,7 @@
     "question":
       "How many legs does a spider have?",
     "answers": ["Six", "Eight", "Four", "Two"],
-    "correct": "vinayak"
+    "correct": "Eight"
   },
   {
     "category": "animals",
@@ -186,8 +186,8 @@
     "category": "social studies",
     "question":
      "The Blue part of a map represents what?",
-    "answers": ["Blue", "Pink", "Green", "White"],
-    "correct": "Blue"
+    "answers": ["Land", "Stars", "Water", "People"],
+    "correct": "Water"
   },
   {
     "category": "social studies",
