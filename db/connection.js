@@ -1,6 +1,11 @@
 const mongoose = require('mongoose');
+mongoose.Promise = Promise
+
+const mongoURI = process.env.NODE_ENV === 'production'
+	? process.env.DB_URL : 'mongodb://localhost/trivia'
+
 mongoose
-	.connect('mongodb://localhost/trivia', {
+	.connect(mongoURI, {
 		useNewUrlParser: true,
 		useFindAndModify: true,
 		useUnifiedTopology: true,

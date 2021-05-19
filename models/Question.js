@@ -2,7 +2,8 @@ const mongoose = require('../db/connection');
 const Schema = mongoose.Schema;
 
 const questionCatergory = new mongoose.Schema({
-	category: String,
+	category: { type: String, 
+				required: true},
 	questionId: Number,
 	question: String,
 	correct: String,
