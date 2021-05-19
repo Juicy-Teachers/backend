@@ -305,7 +305,7 @@
     "category": "food",
     "question":
         "What food is used as the base of guacamole?",
-    "answers": ["avocado", "spinach", "pudding", "salsa"],
+    "answers": ["avocado", "potato", "pudding", "salsa"],
     "correct": "avocado"
   },
   {
