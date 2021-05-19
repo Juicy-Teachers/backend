@@ -186,7 +186,7 @@
     "category": "social studies",
     "question":
      "The Blue part of a map represents what?",
-    "answers": ["Blue", "Land", "Stars", "Water"],
+    "answers": ["Land", "Stars", "Water", "People"],
     "correct": "Water"
   },
   {
@@ -305,7 +305,7 @@
     "category": "food",
     "question":
         "What food is used as the base of guacamole?",
-    "answers": ["avocado", "potato", "pudding", "salsa"],
+    "answers": ["avocado", "spinach", "pudding", "salsa"],
     "correct": "avocado"
   },
   {
