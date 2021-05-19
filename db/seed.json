@@ -52,8 +52,8 @@
     "category": "animals",
     "question":
       "What’s the first thing a caterpillar usually eats after it’s born?",
-    "answers": ["a pack", "a liars", "a beast", "a pride"],
-    "correct": "a pride"
+    "answers": ["other bugs", "grass", "Cheerios", "it's own eggshell"],
+    "correct": "its own eggshell"
   },
   {
     "category": "animals",
@@ -178,6 +178,27 @@
   {
     "category": "social studies",
     "question":
+     "Who was the first president of the united states?",
+    "answers": ["Thomas Edison", "George Washington", "Abraham Lincoln", "Richard Nixon"],
+    "correct": "George Washington"
+  },
+  {
+    "category": "social studies",
+    "question":
+     "The Blue part of a map represents what?",
+    "answers": ["Blue", "Pink", "Green", "White"],
+    "correct": "Blue"
+  },
+  {
+    "category": "social studies",
+    "question":
+     "Where does the president of the united states live while in office?",
+    "answers": ["New York", "Buckingham Palace", "The White house", "Federal reserve"],
+    "correct": "The White house"
+  },
+  {
+    "category": "social studies",
+    "question":
         "What fruit do kids traditionally give to teachers?",
     "answers": ["Pizza", "Orange", "Apple", "iPod"],
     "correct": "Apple"
@@ -202,5 +223,117 @@
         "Where is the Great Pyramid of Giza?",
     "answers": ["Egypt", "Netherlands", "New Zealand", "New York"],
     "correct": "Egypt"
+  },
+  {
+    "category": "money",
+    "question":
+        "How many cents is a quarter worth?",
+    "answers": ["fifteen", "one houndered", "ten", "twenty five"],
+    "correct": "twenty five"
+  },
+  {
+    "category": "money",
+    "question":
+        "How many pennies equal 1 dollar? ",
+    "answers": ["one houndred", "five houndred", "five", "twenty"],
+    "correct": "one houndred"
+  },
+  {
+    "category": "money",
+    "question":
+        "How many cents are in 2 quarters?",
+    "answers": ["twenty", "two houndred", "fifty", "seventy five"],
+    "correct": "fifty"
+  },
+  {
+    "category": "money",
+    "question":
+        "You have 6 coins that equal 19 cents, which coins and how many do you have?",
+    "answers": ["4 pennies", "1 Dime, and 1 Nickel", "1 Dime, 1 Nickel & 4 Pennies", "quarter"],
+    "correct": "1 Dime, 1 Nickel & 4 Pennies"
+  },
+  {
+    "category": "money",
+    "question":
+        "You have seven coins that equal 1.16 cents, which coins and how many do you have?",
+    "answers": ["5 quarters", "2 Dimes, and 1 Penny", "1 Dime, 1 Nickel & 4 Pennies", "10 Dimes"],
+    "correct": " 4 Quarters, 1 Dime, 1 Nickel & 1 Penny"
+  },
+  {
+    "category": "money",
+    "question":
+        "You went to the store with $2.30 cents.  You want to buy as many candy bars as you can.  Each candy car is on sale for 35 cents. How many candy bars can you afford?",
+    "answers": ["6 candy bars", "1 candy bar", "no candy bars", "a twizler"],
+    "correct": "6 candy cars"
+  },
+  {
+    "category": "food",
+    "question":
+        "Lures, reels, rods, hooks, baits and nets are common equipment used in what food gathering method?",
+    "answers": ["swimming", "hunting", "fishing", "napping"],
+    "correct": "fishing"
+  },
+  {
+    "category": "food",
+    "question":
+        "Dairy products are made from what common liquid?",
+    "answers": ["milk", "koolaid", "water", "chocolate milk"],
+    "correct": "milk"
+  },
+  {
+    "category": "food",
+    "question":
+        "What is the popular food used to carve jack-o-lanterns during Halloween?",
+    "answers": ["apples", "chickens", "oranges", "pumpkins"],
+    "correct": "pumpkins"
+  },
+  {
+    "category": "food",
+    "question":
+        "What color are kiwis on the inside?",
+    "answers": ["purple", "pink", "green", "orange"],
+    "correct": "green"
+  },
+  {
+    "category": "food",
+    "question":
+        "What fruit is not grown on a tree? Lemons, apples, strawberries, or bananas? ",
+    "answers": ["lemons", "apples", "banana", "strawberries"],
+    "correct": "strawberries"
+  },
+  {
+    "category": "food",
+    "question":
+        "What food is used as the base of guacamole?",
+    "answers": ["avocado", "potato", "pudding", "salsa"],
+    "correct": "avocado"
+  },
+  {
+    "category": "food",
+    "question":
+        "Which is not a fruit?",
+    "answers": ["apple", "tomato", "grape", "carrot"],
+    "correct": "carrot"
+  },
+  {
+    "category": "food",
+    "question":
+        "Which is not dairy?",
+    "answers": ["milk", "goat cheese", "butter", "guacamole"],
+    "correct": "guacamole"
+  },
+  {
+    "category": "food",
+    "question":
+        "What are dried grapes called?",
+    "answers": ["raisins", "sultanas", "currants", "all the above"],
+    "correct": "all the above"
+  },
+  {
+    "category": "food",
+    "question":
+        "Which is the only fruit with seeds on the outer skin?",
+    "answers": ["blueberries", "strawberries", "oranges", "bananas"],
+    "correct": "strawberries"
   }
 ]
