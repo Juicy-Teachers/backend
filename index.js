@@ -10,7 +10,7 @@ app.use(cors())
 
 
 //controllers
-app.use('/trivia/', questionController)
+app.use('/trivia', questionController)
 
 const port  = process.env.PORT || 5000
 
